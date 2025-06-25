@@ -1,0 +1,14 @@
+🧪 Mini Project for Module 4
+Load Titanic dataset
+
+Print info, describe, and missing values
+
+Fix missing values
+
+Create at least 3 visual charts:
+
+Survival count
+
+Survival by class
+
+Survival by gender
