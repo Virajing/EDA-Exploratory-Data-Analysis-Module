@@ -32,13 +32,13 @@ In this module, I explored the **Titanic dataset** to uncover patterns, clean da
 ## 📸 Data Visualizations
 
 ### 1. 🧍‍ Survival Count
-![Survival Count](images/survival_count.png)
+![Survival Count](./datascience/images/survial-1.png)
 
 ### 2. 🧑‍🤝‍🧑 Survival by Gender
-![Survival by Gender](images/survival_by_gender.png)
+![Survival by Gender](./datascience/images/survival-2.png)
 
 ### 3. 🪑 Survival by Passenger Class
-![Survival by Class](images/survival_by_class.png)
+![Survival by Class](./datascience/images/survival-3.png)
 
 > Note: Make sure your `images/` folder contains the screenshots or chart exports as PNGs.
 
